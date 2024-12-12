@@ -1,0 +1,3 @@
+node . to run JacobBot
+
+ctrl C to stop
